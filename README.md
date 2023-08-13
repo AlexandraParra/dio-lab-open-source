@@ -62,6 +62,15 @@ Aprender o básico sobre contribuição no GitHub.
         </a>
       </td>    
     </tr>
+    <tr>
+      <td>05</td>
+      <td>Outras Dicas</td>
+      <td align="center">
+        <a href="">
+           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-30A3DC?style=for-the-badge">
+        </a>
+      </td>    
+    </tr>
   </tbody>
   <tfoot></tfoot>
 </table>
